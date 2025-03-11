@@ -14,9 +14,9 @@ If you're getting started and need assistance or face any bugs, feel free to rea
 
 ## ⚙️ Tech Stack
 
-- GSAP
-- React.js
-- Tailwind CSS
+- **GSAP**
+- **React.js**
+- **Tailwind CSS**
 
 ## 🔋 Key Features
 
