@@ -21,15 +21,10 @@ If you're getting started and need assistance or face any bugs, feel free to rea
 ## 🔋 Key Features
 
 - [x] 📚 **Scroll-Based Animations**: Dynamic animations triggered by scrolling for a more engaging user experience.
-
 - [x] ⚡ **Clip Path Shaped Animations**: Unique geometric transitions using CSS clip-paths to create visually stunning effects.
-
 - [x] 🎨 **3D Hover Effects**: Interactive 3D transformations that respond to user interactions for a modern feel.
-
 - [x] 📷 **Video Transitions**: Seamlessly integrated video elements to enhance storytelling and flow.
-
 - [x] 🔗 **Smooth UI/UX**: Polished interfaces with buttery-smooth interactions for an intuitive user journey.
-
 - [x] 🚀 **Completely Responsive**: Flawless adaptation across all devices, ensuring a consistent experience.
 
 ## 🛠️Getting Started
