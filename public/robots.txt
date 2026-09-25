@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://sandhit-nova.vercel.app/sitemap.xml
